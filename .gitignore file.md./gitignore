@@ -1,1 +1,5 @@
-
+git init 
+git https://github.com/stepin104663/github-upload.git
+git add .
+git commit -m 
+git push -u 
